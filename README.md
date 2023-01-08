@@ -58,11 +58,6 @@ Tech Stack
 </td>
 
 <td align="center" width="20%">
-<span><b><center>MongoDB</center></b></span> 
-<img height=65px src="https://www.logolynx.com/images/logolynx/d5/d50b83324fb4fbab14cdfaf47409115b.jpeg"> 
-</td>
-
-<td align="center" width="20%">
 <span><b><center>Redux</center></b></span> 
 <img height=60px src="https://user-images.githubusercontent.com/34672810/87503886-f4015e80-c682-11ea-9ec5-ec83dd87ca73.png"> 
 </td>
