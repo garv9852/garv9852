@@ -49,10 +49,6 @@ Tech Stack
 <img height="65px" src="https://expressjs.com/images/express-facebook-share.png"> 
 </td>
 <td align="center" width="20%">
-<span><b><center>Turbo Repository</center></b></span> 
-<!-- Insert Turbo repo logo or relevant image -->
-</td>
-<td align="center" width="20%">
 <img height="65px" src="https://www.scientiamobile.com/wp-content/uploads/2018/04/WebRTC-740-fi.png"> 
 </td>
 </tr>
@@ -63,7 +59,7 @@ Tech Stack
 </td>
 <td align="center" width="20%">
 <span><b><center>SQL</center></b></span> 
-<img height="65px" src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
+<img height="65px" src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg"> 
 </td>
 </tr>
 </tbody>
