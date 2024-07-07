@@ -53,7 +53,6 @@ Tech Stack
 <!-- Insert Turbo repo logo or relevant image -->
 </td>
 <td align="center" width="20%">
-<span><b><center>WebRTC</center></b></span> 
 <img height="65px" src="https://www.scientiamobile.com/wp-content/uploads/2018/04/WebRTC-740-fi.png"> 
 </td>
 </tr>
@@ -65,10 +64,6 @@ Tech Stack
 <td align="center" width="20%">
 <span><b><center>SQL</center></b></span> 
 <img height="65px" src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
-</td>
-<td align="center" width="20%">
-<span><b><center>T3 (if applicable)</center></b></span> 
-<!-- Insert T3 logo or relevant image -->
 </td>
 </tr>
 </tbody>
